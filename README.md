@@ -38,3 +38,13 @@ This program creates an acceptable password that is able to pass the restriction
 - Many apps also suggest a password
   - Chrome, for example, suggests a password when it detects you are creating one.
   - It uses much more advanced restrictions and that is why it always outputs complex code.
+## Proprietary Black Jack
+- This is a proprietary black jack and has a dealer where the user tries to get as close to 21 as possible.
+### Functionality
+1. The program gives an option for the actions the user can take
+2. Gives a randomly generated card with a value if they select to draw
+3. Stops the game if they select to stop and displays who wins
+### Critiques
+- The program is too repetitve and uses unconentional methods to achieve its goal.
+### Real World Uses
+- It is a real game that is used and played in casinos and represents a digitized version of the well known game.
