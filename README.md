@@ -45,6 +45,19 @@ This program creates an acceptable password that is able to pass the restriction
 2. Gives a randomly generated card with a value if they select to draw
 3. Stops the game if they select to stop and displays who wins
 ### Critiques
-- The program is too repetitve and uses unconentional methods to achieve its goal.
+- The program is too repetitve and uses unconventional methods to achieve its goal.
 ### Real World Uses
 - It is a real game that is used and played in casinos and represents a digitized version of the well known game.
+## Rock Paper Scissors
+- A classic game in Python where you can pick either rock, paper, or scissors versus an opponent.
+### Functionality
+1. The program initially asks you if you want to play 1-player or 2-player
+2. Press 1 for 1-player and press 2 for 2-player
+3. If you go 1-player you go versus the computer and challenge it
+4. If you go 2-player you can play against a friend
+5. For both options you type rock, paper, scissors
+6. You can draw, win or lose (and choices for both players will be printed as well)
+### Critiques
+- Uses too much memory
+### Real Word Uses
+- It is a classic game but it's just for fun :)
